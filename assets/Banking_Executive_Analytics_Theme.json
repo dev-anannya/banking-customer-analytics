@@ -1,0 +1,50 @@
+
+{
+  "name": "Banking Executive Analytics Theme",
+  "foreground": "#1E293B",
+  "background": "#F5F7FA",
+  "tableAccent": "#1E40AF",
+  "dataColors": [
+    "#1E40AF",
+    "#059669",
+    "#DC2626",
+    "#7C3AED",
+    "#F59E0B",
+    "#0F766E",
+    "#64748B",
+    "#2563EB"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "show": true,
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 16,
+          "color": {"solid":{"color":"#1E293B"}}
+        }],
+        "background": [{
+          "show": true,
+          "color": {"solid":{"color":"#FFFFFF"}},
+          "transparency": 0
+        }],
+        "border": [{
+          "show": true,
+          "color": {"solid":{"color":"#D9DEE5"}}
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{
+          "fontSize": 30,
+          "color": {"solid":{"color":"#1E40AF"}}
+        }],
+        "labels": [{
+          "fontSize": 11,
+          "color": {"solid":{"color":"#1E293B"}}
+        }]
+      }
+    }
+  }
+}
