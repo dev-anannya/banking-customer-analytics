@@ -41,7 +41,7 @@ This project analyzes customer demographics, financial behavior, account activit
 - Tenure
 - Product Ownership
 
-![Demographics](screenshots/2customerdemographic.png)
+![Demographics](screenshots/2customer_demographic.png)
 
 ---
 
